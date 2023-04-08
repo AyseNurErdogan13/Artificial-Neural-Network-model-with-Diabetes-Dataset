@@ -13,7 +13,6 @@ The script requires the following Python packages:
 - scikit-learn
 - keras
 - tensorflow
-- Usage
 
 The script can be run by executing the "network model with diabetes dataset.py" file using a Python interpreter. The dataset is included in the repository as the diabetes.csv file.
 
